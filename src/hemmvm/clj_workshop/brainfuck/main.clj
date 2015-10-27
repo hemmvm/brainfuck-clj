@@ -5,6 +5,4 @@
 
 
 (defn -main
-  [& args]
-  (let [file (io/file (first args))]
-    (core/run (slurp file))))
+  [& args])

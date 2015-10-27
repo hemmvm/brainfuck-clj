@@ -6,6 +6,4 @@
 
 (defn run
   [s]
-  (->> (l/scan s)
-       (p/parse)
-       (m/run (m/new-machine))))
+  ,,,)
