@@ -1,5 +1,7 @@
 # Brainfuck Interpreter
 
+[![Build Status](https://travis-ci.org/hemmvm/brainfuck-clj.png?branch=master)](https://travis-ci.org/hemmvm/brainfuck-clj)
+
 Reference implementation for the CUGB's Clojure workshop series.
 
 ## Language
